@@ -1,3 +1,6 @@
+Sodoku solver
+=============
+
 Sudoku solver with recursive algorithm
 
 `$ go run sudoku.go [example.json]`
